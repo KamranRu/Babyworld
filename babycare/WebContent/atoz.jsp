@@ -1,0 +1,42 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Alphabet list of baby name</title>
+</head>
+<body>
+<hr/>
+<ul class="pagination">
+<li><a href="ViewByStart?start=a">A</a></li>
+<li><a href="ViewByStart?start=b">B</a></li>
+<li><a href="ViewByStart?start=c">C</a></li>
+<li><a href="ViewByStart?start=d">D</a></li>
+<li><a href="ViewByStart?start=e">E</a></li>
+<li><a href="ViewByStart?start=f">F</a></li>
+<li><a href="ViewByStart?start=g">G</a></li>
+<li><a href="ViewByStart?start=h">H</a></li>
+<li><a href="ViewByStart?start=i">I</a></li>
+<li><a href="ViewByStart?start=j">J</a></li>
+<li><a href="ViewByStart?start=k">K</a></li>
+<li><a href="ViewByStart?start=l">L</a></li>
+<li><a href="ViewByStart?start=m">M</a></li>
+<li><a href="ViewByStart?start=n">N</a></li>
+<li><a href="ViewByStart?start=o">O</a></li>
+<li><a href="ViewByStart?start=p">P</a></li>
+<li><a href="ViewByStart?start=q">Q</a></li>
+<li><a href="ViewByStart?start=r">R</a></li>
+<li><a href="ViewByStart?start=s">S</a></li>
+<li><a href="ViewByStart?start=t">T</a></li>
+<li><a href="ViewByStart?start=u">U</a></li>
+<li><a href="ViewByStart?start=v">V</a></li>
+<li><a href="ViewByStart?start=w">W</a></li>
+<li><a href="ViewByStart?start=x">X</a></li>
+<li><a href="ViewByStart?start=y">Y</a></li>
+<li><a href="ViewByStart?start=z">Z</a></li>
+
+</ul>
+
+</body>
+</html>
